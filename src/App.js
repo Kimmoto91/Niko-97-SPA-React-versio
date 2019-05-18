@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, Route } from 'react-router-dom';
 
 import Layout from './components/Layout/Layout';
-import InfoKit from './containers/InfoKit/InfoKit';
-import InfoKit2 from './containers/InfoKit/Infokit2';
+import EtuSivu from './containers/InfoKit/EtuSivu';
+import Kysely from './containers/InfoKit/Kysely';
+import Sosiaalisuus from './containers/InfoKit/Sosiaalisuus';
+import Seksuaalisuus from './containers/InfoKit/Seksuaalisuus';
 
 class App extends Component {
   render() {
@@ -11,7 +13,10 @@ class App extends Component {
         <BrowserRouter>
         <div>
           <Layout>
-            <InfoKit2 />
+            <Route exact path="/" component={EtuSivu} />
+            <Route path="/kysely" component={Kysely} />
+            <Route path="/sosiaalisuus" component={Sosiaalisuus} />
+            <Route path="/seksuaalisuus" component={Seksuaalisuus} />
           </Layout>
         </div>
         </BrowserRouter>

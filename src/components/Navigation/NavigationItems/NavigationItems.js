@@ -5,10 +5,10 @@ import NavigationItem from './NavigationItem/NavigationItem';
 
 const navigationItems = () => (
     <ul className={classes.NavigationItems}>
-        <NavigationItem link="/InfoKit" active>Etusivu</NavigationItem>
-        <NavigationItem link="/">Kysely</NavigationItem>
-        <NavigationItem link="/">Sosiaalisuus</NavigationItem>
-        <NavigationItem link="/InfoKit2">Seksuaalisuus</NavigationItem>
+        <NavigationItem link="/">Etusivu</NavigationItem>
+        <NavigationItem link="/kysely">Kysely</NavigationItem>
+        <NavigationItem link="/sosiaalisuus">Sosiaalisuus</NavigationItem>
+        <NavigationItem link="/seksuaalisuus">Seksuaalisuus</NavigationItem>
     </ul>
 );
 
