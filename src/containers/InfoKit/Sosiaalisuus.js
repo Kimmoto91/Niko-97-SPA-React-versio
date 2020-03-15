@@ -156,6 +156,7 @@ class Sosiaalisuus extends Component {
                 </p>
               </div>
 
+            <footer>Tekijät: Anna Lindroos, Emmi Rintala, Linda Sillanmäki</footer>
             </Aux>
 
           );
