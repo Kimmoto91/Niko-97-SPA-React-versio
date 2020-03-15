@@ -113,7 +113,38 @@ class Seksuaalisuus extends Component {
                   SETAn sivuilta löytyy myös eri tuki- ja neuvontapalvelut ja niiden yhteystiedot. Esimerkiksi syrjintää kokeneille ihmisille löytyy oma neuvontapalvelu.</p>
             </div>
 
-              <div>Palvelunohjaus</div>
+              <div>
+                 <p>Palveluunohjaus</p>
+
+                  <strong>Sexpo</strong>
+                 <ul>
+                    <li><a href="https://sexpo.fi">Sexpo</a></li>
+                    <li>p. 050 472 4257</li>
+                 </ul>
+
+                  <strong>Väestöliitto</strong>
+                  <ul>
+                     <li><a href="https://www.vaestoliitto.fi">Väestöliitto</a></li>
+                  </ul>
+                 
+                 <strong>Ehkäisyneuvonta</strong>
+                 <ul>
+                    <li><a href="https://www.hel.fi/helsinki/fi/sosiaali-ja-terveyspalvelut/terveyspalvelut/muita-terveyspalveluja/ehkaisyneuvonta/">Helsingin kaupunki – Ehkäisyneuvonta</a></li>
+                 </ul>
+                 
+                 <strong>Seksuaalioikeudet</strong>
+                 <ul>
+                    <li><a href="http://www.ihmisoikeudet.net/ihmisoikeudet/seksuaalioikeudet/">Ihmisoikeudet.net – Seksuaalioikeudet</a></li>
+                 </ul>
+                 
+                 <strong>SETA</strong>
+                 <ul>
+                    <li><a href="www.seta.fi">SETA</a></li>
+                 </ul>
+                 
+              </div>
+
+              <footer>Tekijät: Susanna Leppänen, Pauliina Rautala</footer>
             </Aux>
 
           );
