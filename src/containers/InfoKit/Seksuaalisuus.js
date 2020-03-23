@@ -114,7 +114,7 @@ class Seksuaalisuus extends Component {
             </div>
 
               <div>
-                 <p>Palveluunohjaus</p>
+                 <p>Palvelunohjaus</p>
 
                   <strong>Sexpo</strong>
                  <ul>
