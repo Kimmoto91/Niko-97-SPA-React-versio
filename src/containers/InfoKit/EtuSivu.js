@@ -9,6 +9,9 @@ class EtuSivu extends Component {
       render() {
           return (
             <Aux>
+                  <meta name="description" content="Tietopaketteja tunnetaidoista sekä seksuaalisuudesta"></meta>
+                  <meta name="keywords" content="Niko-97,Tunnetaidot,Tunteet,Seksuaalisuus"></meta>
+                  <meta name="author" content="John Doe"></meta>
             <div className="Home">
               <h2>Tervetuloa käyttämään Niko-97 sovellusta!</h2>
               <p>Tästä sovelluksesta löytyy tietoa sosiaali- ja seksuaalisuhteista.</p>
