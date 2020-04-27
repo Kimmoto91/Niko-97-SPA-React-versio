@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 
+//Authors Kimmo Tolonen, Petteri Sylvänne
 class Sexuality extends Component {
   render() {
     return (

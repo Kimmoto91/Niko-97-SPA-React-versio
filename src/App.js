@@ -7,6 +7,7 @@ import Kysely from './containers/InfoKit/Kysely';
 import Sosiaalisuus from './containers/InfoKit/Sosiaalisuus';
 import Seksuaalisuus from './containers/InfoKit/Seksuaalisuus';
 
+//Authors Kimmo Tolonen, Petteri Sylvänne
 class App extends Component {
   render() {
       return (

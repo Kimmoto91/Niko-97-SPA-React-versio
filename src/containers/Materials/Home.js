@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 
+//Authors Kimmo Tolonen, Petteri Sylvänne
 const Home = () => {
     <div className="main-content">
         <div className="cointainer">

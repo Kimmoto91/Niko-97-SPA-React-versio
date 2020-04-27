@@ -4,7 +4,7 @@ import { Route } from 'react-router-dom'
 
 import Aux from '../../hoc/Auxiliary';
 
-
+//Authors Kimmo Tolonen, Petteri Sylvänne
 class InfoKit2 extends Component {
       render() {
           return (
