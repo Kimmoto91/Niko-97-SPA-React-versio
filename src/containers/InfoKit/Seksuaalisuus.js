@@ -5,13 +5,14 @@ import { Route } from 'react-router-dom'
 import Aux from '../../hoc/Auxiliary';
 
 //Authors Kimmo Tolonen, Petteri Sylvänne
+//Tekijät: Susanna Leppänen, Pauliina Rautala 2019
 class Seksuaalisuus extends Component {
       render() {
           return (
             <Aux>
             <div className="Home">
             <h3>Seksuaalisuus</h3>
-              
+
             <strong>Seksuaalisuus on:</strong>
             <ul>
                     <li>iso osa ihmisyyttä koko elämän ajan, synnynnäinen kyky reagoida fyysisesti ja psyykkisesti aistimuksiin ja virikkeisiin.</li>
@@ -20,7 +21,7 @@ class Seksuaalisuus extends Component {
                         sosiaalinen sukupuoli-identiteetti, eroottinen mielenkiinto, nautinto ja intiimiys.</li>
                     <li>koetaan ja ilmaistaan eri keinoin: fantasiat, halut, ajatukset, uskomukset. Seksuaalisuuden voi määrittää vain yksilö itse.</li>
             </ul>
-            <p>Seksi on sitä, mitä teemme. Seksuaalisuus on sitä, mitä olemme. Ilmenee kaikessa, mitä ihminen tekee, tuntee, ajattelee ja on.</p> 
+            <p>Seksi on sitä, mitä teemme. Seksuaalisuus on sitä, mitä olemme. Ilmenee kaikessa, mitä ihminen tekee, tuntee, ajattelee ja on.</p>
 
             <p>Lisää tietoa saat täältä:</p>
             <a href="https://sexpo.fi">Sexpo</a>
@@ -97,7 +98,7 @@ class Seksuaalisuus extends Component {
                   <p>Vuonna 2017 tasa-arvoinen avioliittolaki astui voimaan, joten käsitykset ja asenteet ovat vuosien kuluessa muuttuneet.
                   Yhä edelleen esimerkiksi homo- ja biseksuaalisuuteen liittyy sekä psyykkisiä että sosiaalisia, hyvinvointiin ja terveyteen vaikuttavia prosesseja.
                   Näitä ovat esimerkiksi itsensä hyväksyminen, suuntautumisesta vaikeneminen ja suuntautumisesta kertominen.</p>
-                  
+
                   <strong>Seksuaaliset suuntautumiset</strong>
                   <ul>
                         <li>Aseksuaali – Seksuaalisen kiinnostuksen vähäisyys tai puute, romanttinen aseksuaali voi tuntea romanttisia mutta ei seksuaalisia tunteita toista kohtaan. </li>
@@ -126,22 +127,22 @@ class Seksuaalisuus extends Component {
                   <ul>
                      <li><a href="https://www.vaestoliitto.fi">Väestöliitto</a></li>
                   </ul>
-                 
+
                  <strong>Ehkäisyneuvonta</strong>
                  <ul>
                     <li><a href="https://www.hel.fi/helsinki/fi/sosiaali-ja-terveyspalvelut/terveyspalvelut/muita-terveyspalveluja/ehkaisyneuvonta/">Helsingin kaupunki – Ehkäisyneuvonta</a></li>
                  </ul>
-                 
+
                  <strong>Seksuaalioikeudet</strong>
                  <ul>
                     <li><a href="http://www.ihmisoikeudet.net/ihmisoikeudet/seksuaalioikeudet/">Ihmisoikeudet.net – Seksuaalioikeudet</a></li>
                  </ul>
-                 
+
                  <strong>SETA</strong>
                  <ul>
                     <li><a href="www.seta.fi">SETA</a></li>
                  </ul>
-                 
+
               </div>
 
               <footer>Tekijät: Susanna Leppänen, Pauliina Rautala</footer>

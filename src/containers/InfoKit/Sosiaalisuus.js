@@ -5,6 +5,7 @@ import { Route } from 'react-router-dom'
 import Aux from '../../hoc/Auxiliary';
 
 //Authors Kimmo Tolonen, Petteri Sylvänne
+//Tekijät: Anna Lindroos, Emmi Rintala, Linda Sillanmäki 2019
 class Sosiaalisuus extends Component {
       render() {
           return (
@@ -17,7 +18,7 @@ class Sosiaalisuus extends Component {
                   <p>Tunnetaidot voidaan jakaa pääosin kahteen eri osa-alueeseen, tunteiden ilmaisu ja tunteiden säätely.
                     Tunteiden ilmaisu on kykyä ilmaista omia tunteitaan oikealla tavalla ja tunteiden säätely taas kykyä hallita omia tunteitaan oikealla tavalla.
                     Näiden lisäksi tunnetaitoihin voidaan lukea myös kyky tunnistaa omat tarpeensa ja kyky hillitä omaa käytöstä.</p>
-                    
+
                   <h3>Miksi on hyvä osata käsitellä tunteitaan oikealla tavalla?</h3>
                   <p>Kyky ymmärtää tunteiden syitä ja seurauksia on suuri voimavara selvitä erilaisista elämän valinnoista, niin arkisista kuin suuristakin päätöksistä.
                     Kaikki koetut tunteet ovat osa meitä ja vaikeimpienkin tunteiden käsitteleminen ja julki tuominen luovat ihmisestä kokonaisen.
@@ -33,9 +34,9 @@ class Sosiaalisuus extends Component {
                     Erityisesti vaikeissa tilanteissa puhuminen jollekin toiselle voi auttaa käsittelemään omia tunteitaan paremmin.
                     Myös empaattinen kuunteleminen on osa tunnetaitoja ja tämä vaatii kuuntelukyvyn lisäksi kykyä olla todellisesti läsnä.
                     Hyvä kuuntelija ymmärtää mitä toinen sanoo, muistaa sen ja reagoi siihen mitä on juuri kuullut.</p>
-                  
+
                   <h3>LISÄÄ TUNTEISTA JA TUNNETAIDOISTA VOIT LUKEA ESIMERKIKSI <a href="https://mieli.fi/fi/mielenterveys/itsetuntemus/tunteet">TÄÄLTÄ</a></h3>
-                
+
 
                   <h2>Minäkuva</h2>
                   <h3>MINÄKUVA – Terveen minäkuvan luominen</h3>
@@ -52,7 +53,7 @@ class Sosiaalisuus extends Component {
 
                   <h3>SOSIAALISET SUHTEET – Vuorovaikutustaidot</h3>
                   <p>Sosiaaliset suhteet ovat ihmisten välisiä suhteita, joiden perustana toimivat normit, arvot ja asenteet.
-                    Sosiaalisilla suhteilla on meidän jokaisen elämässä suuri merkitys ja se on yksi psyykkiseen ja fyysiseen terveyteen vaikuttavista tekijöistä. 
+                    Sosiaalisilla suhteilla on meidän jokaisen elämässä suuri merkitys ja se on yksi psyykkiseen ja fyysiseen terveyteen vaikuttavista tekijöistä.
                     Kaikilla meillä on omanlaisemme tarve kohdata muita ihmisiä ja muodostaa erilaisia ystävyyssuhteita.
                     Jotkut kaipaavat enemmän ihmisiä ympärilleen ja toiset viihtyvät omissa oloissaan paremmin, mutta yhteistä meille kaikille on se, että kaipaamme ihmiskontaktia edes jossain määrin.
                     Määrä ei siis korvaa laatua ja jopa vain yksi hyvä ihmissuhde voi antaa elämäämme tarpeeksi tukea, apua ja arvostusta.</p>
@@ -111,7 +112,7 @@ class Sosiaalisuus extends Component {
 
                 <h2><strong>HALUATKO JUTELLA JONKUN KANSSA LISÄÄ?</strong></h2>
                 <p>Voit soittaa esimerkiksi näihin numeroihin. Älä jää murheittesi kanssa yksin!</p>
-              
+
                 <strong>Nuorten kriisipuhelin</strong> – Surua tai pahaa oloa?
                 <ul>
                     <li>Maksutonta ja luottamuksellista keskusteluapua 12-29 -vuotiaille nuorille</li>
